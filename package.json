@@ -1,6 +1,6 @@
 {
-  "name": "@coinspace/crypto-db",
-  "version": "1.11.5",
+  "name": "@arfriddy/crypto-db",
+  "version": "1.0.0",
   "description": "Crypto DB",
   "author": "Coin Crypto Wallet <support@coin.space> (https://coin.space/)",
   "license": "MIT",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoinSpace/crypto-db.git"
+    "url": "git+https://github.com/arfriddy/crypto-db"
   },
   "keywords": [
     "crypto",
