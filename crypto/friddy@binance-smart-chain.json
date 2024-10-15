@@ -1,0 +1,11 @@
+{
+  "_id": "friddy@binance-smart-chain",
+  "asset": "friddy",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Friddy",
+  "symbol": "FRIDDY",
+  "address": "0xCb60a4B5D45Cc996A641b85EDce425B8278Ea214",
+  "decimals": 18,
+  "logo": "friddy.svg"
+}
